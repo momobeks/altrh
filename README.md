@@ -4,7 +4,7 @@
 
 ### titre niveau 3
 
-#### titre niveau 5
+#### titre niveau 4
 
 - puce 1
 - puce 2
@@ -14,9 +14,9 @@
 2. puce ordonnée n°2
 3. puce ordonnée n°3
 
-**chaine en gras** 
+**chaine en gras**
 
-*chaine en italique*
+_chaine en italique_
 
 [Lien vers Google](https://www.google.com/)
 
@@ -25,5 +25,5 @@
 ```
 
 ```javascript
-let toto = "hello world!";
+let toto = "hello world!"
 ```
